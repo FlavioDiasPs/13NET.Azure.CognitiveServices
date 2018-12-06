@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vision", "ConsoleApp1\Vision.csproj", "{A73831F8-4347-4009-A208-826E9B4D4835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bing", "Bing\Bing.csproj", "{01348A4F-9E58-409F-8E95-B1FBB3534EAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureSearch", "AzureSearch\AzureSearch.csproj", "{DE080D55-6A07-4563-8C1E-6A9F6EA89F45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A73831F8-4347-4009-A208-826E9B4D4835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73831F8-4347-4009-A208-826E9B4D4835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73831F8-4347-4009-A208-826E9B4D4835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73831F8-4347-4009-A208-826E9B4D4835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01348A4F-9E58-409F-8E95-B1FBB3534EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01348A4F-9E58-409F-8E95-B1FBB3534EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01348A4F-9E58-409F-8E95-B1FBB3534EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01348A4F-9E58-409F-8E95-B1FBB3534EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE080D55-6A07-4563-8C1E-6A9F6EA89F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE080D55-6A07-4563-8C1E-6A9F6EA89F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE080D55-6A07-4563-8C1E-6A9F6EA89F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE080D55-6A07-4563-8C1E-6A9F6EA89F45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A688D72F-7581-4C54-8015-A16C003B6285}
+	EndGlobalSection
+EndGlobal
